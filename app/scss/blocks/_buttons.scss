@@ -1,0 +1,6 @@
+.buttons{
+  margin-top: 60px;
+  a{
+    @include btn($bg: $red, $two-button: true);
+  }
+}
