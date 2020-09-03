@@ -22,13 +22,12 @@
   text-transform: uppercase;
   color: $white;
   box-sizing: border-box;
-  background-color: transparent;
+  background-color: $red;
   border-color: $white;
   transition-duration: 500ms;
   @content;
   &:hover{
     background-color: $red;
-    border: none;
   }
   @if $two-button == true {
     &:first-child{
