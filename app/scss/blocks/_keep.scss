@@ -137,6 +137,10 @@
 
 @media (max-width: 768px){
   .keep{
+    padding-top: 60px;
+    .keep__block{
+      margin-top: 40px;
+    }
     .keep__info{
       margin: 25px 0;
     }

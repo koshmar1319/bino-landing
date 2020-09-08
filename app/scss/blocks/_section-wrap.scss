@@ -12,6 +12,13 @@
       z-index: 2;
       border-radius: 50%;
       background-color: $white-gray;
+      &:hover{
+        .section-wrap__img{
+          animation-name: rotate;
+          animation-duration: 2s;
+          animation-iteration-count: infinite;
+        }
+      }
     }
     .section-wrap__img{
       width: 30px;
