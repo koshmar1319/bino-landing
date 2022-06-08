@@ -5,6 +5,8 @@
 ### Описание:
 Проект с показом работ дизайнеров.
 
+[Макет проекта Photoshop](https://drive.google.com/file/d/1IcCz8SDN-JEjhqaqfx0SGiKqhnaDP-Oi/view?usp=sharing "ссылка на макет")
+
 ### Стек технологий:
 
 | HTML <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> | SCSS <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code> | JavaScript <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> | Gulp <code><img  height="20"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"></code> |
