@@ -1,0 +1,23 @@
+.buttons{
+  margin-top: 60px;
+  a{
+    @include btn($bg: $red, $two-button: true){
+      background-color: transparent;
+    };
+    &:hover{
+      border: none;
+    }
+  }
+}
+
+@media (max-width: 560px){
+  .buttons{
+    a{
+      display: block;
+      margin: 10px auto;
+      &:first-child{
+        margin: 15px auto;
+      }
+    }
+  }
+}
